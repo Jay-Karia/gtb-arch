@@ -6,4 +6,4 @@ Inspired from [Grand Theft Gentoo - Grub Theme](https://gitlab.com/imnotpua/grub
 ![Preview](./background.png)
 
 Fork of [Grand Theft Gentoo - Grub Theme](https://gitlab.com/imnotpua/grub_gtg/),<br>
-Simple update the `background.jpg` file with this one and you will be good to go.
+Simply update the `background.jpg` file with this one and you will be good to go.
